@@ -1,10 +1,7 @@
 # Hello-World
 
 ## Authors
-<<<<<<< HEAD
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-=======
->>>>>>> 7094f8de79a3c65b5d10a0198b2b9e53b00e4f0c
 - [Duncan Kariuki](https://github.com/Dun-Njuguna)
 - Add your clickable username here. It should point to your GitHub account.
 
